@@ -5,20 +5,26 @@ Varighed: 5 uger
 
 Først, opret en bruger på github.com og send dit brugernavn til simon. Så bliver du inviteret til vores projekt, hvor du kan tilføje og læse udfodringer.
 
-### Uge 1 + 2 : Torsdag 19. September – 3. Oktober 
+### Torsdag 19. September – 30. September 
 Find udfordringer for mobilitet og tourisme og skriv dem ind i vores github project.
 
-### Uge 3: 26. 3. Okt  - 10 Oktober
+### 30 September - 3. Okt
 Hver person vælger de fem mest interessante udfordringer, og vi udvælger de 3 som flest har til fælles. Disse 3 skal evalueres iblandt målgruppen (den gruppe som problemet er relevant for)
 
-### Uge 4: 10. Oktober – 17 Oktober
+## DEADLINE 3. Oktober: HAV EN KLAR OG VALIDERET PROBLEMSTILLING AT ARBEJDE MED
+
+### 3. Oktober – 10 Oktober
 Begynd at foreslå løsninger på vores problem
 
-### Uge 5: 17 Oktober – 24. Oktober
-Udvælg 3 løsninger og evaluer dem
+### 10 Oktober – 15. Oktober
+Udvælg 3 løsninger og evaluer dem, udvælg bedste løsning
 
-### Uge 6: 24. Oktober — 31. Oktober
+## DEADLINE 15. OKTOBER HAV ET KLART, GENNEMTÆNKT LØSNINGSFORSLAG
+
+### 15. Oktober — 31. Oktober
 Udvælg bedste løsning, og implementer
+
+## DEADLINE 31. OKTOBER HAV EN LØSNING FÆRDIGUDVIKLET
 
 ### Uge 7: Færdiggør projekt
 
